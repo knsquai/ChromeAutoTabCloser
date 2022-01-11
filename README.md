@@ -1,0 +1,2 @@
+# ChromeAutoTabCloser
+予め登録されたサイトを自動で閉じるChrome拡張機能
